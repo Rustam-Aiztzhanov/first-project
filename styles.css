@@ -1,0 +1,16 @@
+body{
+    font-size: 24px;
+    background-color: antiquewhite;
+    font-family:'Courier New', Courier, monospace;
+    
+}
+.header{
+    width: 120px;
+     border-width: 2px;
+     border-style: solid;
+     border-color: black;
+     color:green;
+}
+p{
+    color:grey;
+}
